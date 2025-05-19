@@ -92,5 +92,5 @@ SQL_Customer_Segmentation/
 
 ## 🙌 Author
 
-Created by **[Your Name]** as part of a hands-on SQL + BI learning project.
+Created by **Kaushal Kumar** as part of a hands-on SQL + BI learning project.
 
